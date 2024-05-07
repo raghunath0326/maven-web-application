@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://localhost:8081/repository/Flipkart-release/</url>
+	      <name>Raghu Releases Nexus Repository</name>
+	      <url>http://localhost:8081/repository/raghu_release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://localhost:8081/repository/Flipkart-snapshot/</url>
+	      <name>RAghu Snapshot Nexus Repository </name>
+	      <url>http://localhost:8081/repository/raghu_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
